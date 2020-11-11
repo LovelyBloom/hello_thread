@@ -1,3 +1,0 @@
-C:/Users/mohse/CLionProjects/hello_thread/cmake-build-debug/CMakeFiles/hello_thread.dir
-C:/Users/mohse/CLionProjects/hello_thread/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/mohse/CLionProjects/hello_thread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
